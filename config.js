@@ -1,2 +1,2 @@
-console.log("version 15");
+console.log("version 6 restored");
 console.log("config.js");
