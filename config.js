@@ -1,2 +1,2 @@
-console.log("version 17");
+console.log("version 18");
 console.log("config.js");
