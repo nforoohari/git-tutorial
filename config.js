@@ -1,2 +1,2 @@
 console.log("version 26");
-console.log("config.js");
+console.log("config2.js");

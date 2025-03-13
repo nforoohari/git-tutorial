@@ -1,2 +1,2 @@
 console.log("version 26");
-console.log("index1");
+console.log("index2");
